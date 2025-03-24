@@ -2,7 +2,6 @@
 📗 Computer science student at UCI<br>
 🧠 Always looking to learn something new about computing<br>
 🌱 Excited to learn more about machine learning<br>
-🖊️ Currently working on some projects with robotics and artificial intelligence
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-m-su/) 
