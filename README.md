@@ -1,27 +1,36 @@
-# 💫 About Me:
-📗 Computer science student at UCI<br>
-🧠 Always looking to learn something new about computing<br>
-🌱 Excited to learn more about machine learning<br>
+<h1 align="center">Hi 👋 I'm Ryan</h1>
+<h3 align="center">CS @ UC Irvine | Software Engineer | Full-stack Developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+software+for+social+good;Exploring+new+solutions;Always+learning+and+innovating&font=Fira%20Code&center=true&width=440&height=45&color=6231D8&vCenter=true&size=22">
+</p>
 
+### What I'm Up To
+- 💻 **Incoming SWE Intern** at Veeva Systems
+- 🔧 Building full-stack apps with **Commit the Change**
+- 👀 Always looking for new projects!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-m-su/) 
+### Tech Stack
+```python
+skills = {
+    "languages": ["Python", "Java", "C/C++", "JavaScript"],
+    "frameworks": ["React", "Node.js", "Flask", "Express"],
+    "tools": ["AWS", "Git", "MongoDB", "PostgreSQL", "Linux"]
+}
+```
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RyPC&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RyPC&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+### 💭 Things on my mind recently
+```
+* Need to make more pizookies...
+* "Put me in, coach!"
+* Pants are not on fire
+```
 
----
-[![](https://visitcount.itsvg.in/api?id=RyPC&icon=3&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/ryan-m-su/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:sur6@uci.edu">
+    <img src="https://img.shields.io/badge/Email-sur6%40uci.edu-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+<p align="center"><i>Skiing, mountain biking, hiking, spikeball!!!!</i></p>
