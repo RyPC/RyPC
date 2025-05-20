@@ -18,7 +18,7 @@ skills = {
 }
 ```
 
-### 💭 Things on my mind recently
+### 💭 A look into my mind
 ```
 * Need to make more pizookies...
 * "Put me in, coach!"
