@@ -33,4 +33,3 @@ skills = {
     <img src="https://img.shields.io/badge/Email-sur6%40uci.edu-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
-<p align="center"><i>Skiing, mountain biking, hiking, spikeball!!!!</i></p>
