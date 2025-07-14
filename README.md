@@ -5,7 +5,7 @@
 </p>
 
 ### What I'm Up To
-- 💻 **Incoming SWE Intern** at Veeva Systems
+- 💻 **Current SWE Intern** at Veeva Systems
 - 🔧 Building full-stack apps with **Commit the Change**
 - 👀 Always looking for new projects!
 
